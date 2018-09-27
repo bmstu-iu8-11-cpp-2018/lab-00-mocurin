@@ -3,6 +3,6 @@
 int main()
 {
     std::сout << "Hello, world!" << std::endl;
-    std::cin.get();
+    system ("pause");
     return 0;
 }
