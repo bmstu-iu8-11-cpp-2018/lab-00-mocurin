@@ -2,7 +2,7 @@
 
 int main()
 {
-  std::сout << "Hello, world!" << std::endl;
-  std::cin.get();
-  return 0;
+    std::сout << "Hello, world!" << std::endl;
+    std::cin.get();
+    return 0;
 }
